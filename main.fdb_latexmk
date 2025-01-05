@@ -1,0 +1,16 @@
+# Fdb version 4
+["pdflatex"] 1736042151.07035 "d:/mygithubs/latex01/main.tex" "main.pdf" "main" 1736042151.45002 0
+  "C:/Users/nadid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1736042114 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/nadid/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1736042110 11993823 cf9862f92149a64f54805df6f909f4a1 ""
+  "C:/Users/nadid/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/nadid/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1732534639 20144 d7d3a15c7efd9458741458961c8a96e7 ""
+  "C:/Users/nadid/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1732534639 8448 bd43e47d84d3704b7eabd59a92e43bf1 ""
+  "C:/Users/nadid/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "d:/mygithubs/latex01/main.tex" 1736042150 418 f5844b659bbaa6af8c17393c9981846c ""
+  "main.aux" 1736042151 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1736042150 418 f5844b659bbaa6af8c17393c9981846c ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)
